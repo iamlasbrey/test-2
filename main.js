@@ -1,1 +1,3 @@
-console.log('amazing')
+const FatMan = () =>{
+    console.log('fat man')
+}
